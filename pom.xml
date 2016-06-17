@@ -7,9 +7,6 @@
     <groupId>com.henryxi.use.wheel</groupId>
     <artifactId>use-wheel</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <modules>
-        <module>joda-time</module>
-    </modules>
     <packaging>pom</packaging>
 
 </project>
