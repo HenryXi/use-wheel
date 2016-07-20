@@ -10,6 +10,7 @@
     <modules>
         <module>joda-time</module>
         <module>apache-common-lang3</module>
+        <module>xstream</module>
     </modules>
     <packaging>pom</packaging>
     <dependencies>
