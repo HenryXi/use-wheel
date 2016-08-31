@@ -11,6 +11,7 @@
         <module>joda-time</module>
         <module>apache-common-lang3</module>
         <module>xstream</module>
+        <module>jedis</module>
     </modules>
     <packaging>pom</packaging>
     <dependencies>
