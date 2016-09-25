@@ -12,6 +12,7 @@
         <module>apache-common-lang3</module>
         <module>xstream</module>
         <module>jedis</module>
+        <module>httpclient</module>
     </modules>
     <packaging>pom</packaging>
     <dependencies>
