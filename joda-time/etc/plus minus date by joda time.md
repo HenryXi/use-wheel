@@ -1,4 +1,4 @@
-# Plus, minus date in java by joda time
+# Plus or minus date in java by joda time
 Plus or minus date in java is boring. `joda-time` can help you finish this task easily. If you use JDK8 you may
  not need use `joda-time`, there is a new date API in JDK8. For more detail you can click [here](http://www.oracle.com/technetwork/articles/java/jf14-date-time-2125367.html).
 In this blog I will show you how to use `joda-time` plus or minus date.
