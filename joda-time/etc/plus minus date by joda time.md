@@ -1,9 +1,8 @@
-package com.henryxi.joda.time;
-
-import org.joda.time.DateTime;
-
-import java.util.Date;
-
+# Plus, minus date in java by joda time
+Plus or minus date in java is boring. `joda-time` can help you finish this task easily. If you use JDK8 you may
+ not need use `joda-time`, there is a new date api in JDK8. For more detail click [here](http://www.oracle.com/technetwork/articles/java/jf14-date-time-2125367.html).
+In this blog I will show you how to use `joda-time` plus or minus date.
+```java
 public class AddMinutes {
     public static void main(String[] args) {
         DateTime date = new DateTime(new Date());
@@ -32,3 +31,18 @@ public class AddMinutes {
         System.out.println("before 10 months: " + before10Months);
     }
 }
+```
+The output of the code is like following.
+```
+now: 2016-09-25T22:44:26.274+08:00
+after 10 seconds: 2016-09-25T22:44:36.274+08:00
+after 10 minutes: 2016-09-25T22:54:26.274+08:00
+after 10 hours: 2016-09-26T08:44:26.274+08:00
+after 10 days: 2016-10-05T22:44:26.274+08:00
+after 10 months: 2017-07-25T22:44:26.274+08:00
+before 10 seconds: 2016-09-25T22:44:16.274+08:00
+before 10 minutes: 2016-09-25T22:54:26.274+08:00
+before 10 hours: 2016-09-26T08:44:26.274+08:00
+before 10 days: 2016-10-05T22:44:26.274+08:00
+before 10 months: 2017-07-25T22:44:26.274+08:00
+```
