@@ -1,4 +1,4 @@
-package com.henryxi.jackson;
+package com.henryxi.jackson.bean;
 
 public class Box<T> {
     private String name;
