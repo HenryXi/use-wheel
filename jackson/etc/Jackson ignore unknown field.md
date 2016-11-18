@@ -1,4 +1,4 @@
-# Jackson ignore unknown field avoid UnrecognizedPropertyException
+# Jackson ignore unrecognized field
 You will get `UnrecognizedPropertyException` if you convert json string to object with unknown field. There are 2 ways
 to avoid this problem. Use `JsonIgnoreProperties` annotation or add `DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES` 
 to `ObjectMapper` configuration. Examples are in the following.
