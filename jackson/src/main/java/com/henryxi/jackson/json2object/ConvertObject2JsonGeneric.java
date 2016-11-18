@@ -9,7 +9,7 @@ import com.henryxi.jackson.bean.WrapUser;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ConvertObject2Json {
+public class ConvertObject2JsonGeneric {
     public static void main(String[] args) throws JsonProcessingException {
         ObjectMapper objectMapper = new ObjectMapper();
         User user = new User();
