@@ -6,7 +6,6 @@ import com.henryxi.jackson.bean.Box;
 import com.henryxi.jackson.bean.User;
 
 import java.io.IOException;
-import java.util.HashMap;
 import java.util.Map;
 
 public class Client {
@@ -24,17 +23,15 @@ public class Client {
         System.out.println(stringBox);
 
         String mapJson = "{\"key1\":\"value1\",\"key2\":\"value2\",\"key3\":\"value3\"}";
-        Map<String, String> stringStringMap = objectMapper.readValue(mapJson, new TypeReference<HashMap<String, String>>() {
+        Map<String, String> stringStringMap = objectMapper.readValue(mapJson, new TypeReference<Map<String, String>>() {
         });
         System.out.println("json: " + mapJson);
         System.out.println(stringStringMap);
-        Map<String, Map<String, String>> nestMap = new HashMap<>();
-        nestMap.put("nestKey1", stringStringMap);
-        nestMap.put("nestKey2", stringStringMap);
-        nestMap.put("nestKey3", stringStringMap);
-        System.out.println(objectMapper.writerWithDefaultPrettyPrinter().writeValueAsString(nestMap));
 
-//        JavaType type = objectMapper.getTypeFactory().constructGeneralizedType(Integer.class, Box.class);
-//        Box intBox = objectMapper.readValue(userJsonStr, User.class);
+        String nestMapJson = "{\"nestKey1\":{\"key1\":\"value1\",\"key2\":\"value2\",\"key3\":\"value3\"},\"nestKey2\":{\"key1\":\"value1\",\"key2\":\"value2\",\"key3\":\"value3\"},\"nestKey3\":{\"key1\":\"value1\",\"key2\":\"value2\",\"key3\":\"value3\"}}";
+        Map<String, Map<String, String>> nestMap = objectMapper.readValue(nestMapJson, new TypeReference<Map<String, Map<String, String>>>() {
+        });
+        System.out.println("json: " + nestMapJson);
+        System.out.println(nestMap);
     }
 }
