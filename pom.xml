@@ -15,6 +15,7 @@
         <module>httpclient</module>
         <module>apache-common-dbcp</module>
         <module>jackson</module>
+        <module>apache-common-io</module>
     </modules>
     <packaging>pom</packaging>
     <dependencies>

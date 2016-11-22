@@ -17,11 +17,12 @@ public class BatchInsertByFile {
     public static void main(String[] args) throws Exception {
         dataSource.setDriverClassName("com.mysql.jdbc.Driver");
         dataSource.setInitialSize(130);
-        dataSource.setUsername("lhjh");
-        dataSource.setPassword("lhjh");
-        dataSource.setUrl("jdbc:mysql://192.168.100.64:3306/test_db");
+        dataSource.setUsername("root");
+        dataSource.setPassword("123456");
+        dataSource.setUrl("jdbc:mysql://localhost:3306/db");
         dataSource.setDefaultAutoCommit(false);
-        File file = new File("D:\\testData\\www.csdn.net.sql");
+        File file = new File("E:\\data\\www.csdn.net.sql");
+        long start = System.currentTimeMillis();
         try (BufferedReader br = new BufferedReader(new FileReader(file))) {
             String line;
             String[] data;
@@ -41,6 +42,7 @@ public class BatchInsertByFile {
                 }
             }
         }
+        System.out.println("used: " + (System.currentTimeMillis() - start));
     }
 }
 
@@ -56,7 +58,7 @@ class BatchInsert extends Thread {
     @Override
     public void run() {
         try {
-            PreparedStatement ps = conn.prepareStatement("INSERT INTO users (user_name,pwd,email) VALUES (?,?,?)");
+            PreparedStatement ps = conn.prepareStatement("INSERT INTO users2 (user_name,pwd,email) VALUES (?,?,?)");
             for (User user : list) {
                 ps.setString(1, user.getName());
                 ps.setString(2, user.getPwd());
