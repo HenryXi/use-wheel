@@ -58,7 +58,7 @@ class BatchInsert extends Thread {
     @Override
     public void run() {
         try {
-            PreparedStatement ps = conn.prepareStatement("INSERT INTO users2 (user_name,pwd,email) VALUES (?,?,?)");
+            PreparedStatement ps = conn.prepareStatement("INSERT INTO users (user_name,pwd,email) VALUES (?,?,?)");
             for (User user : list) {
                 ps.setString(1, user.getName());
                 ps.setString(2, user.getPwd());
