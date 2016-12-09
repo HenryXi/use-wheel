@@ -16,6 +16,7 @@
         <module>apache-common-dbcp</module>
         <module>jackson</module>
         <module>apache-common-io</module>
+        <module>thrift</module>
     </modules>
     <packaging>pom</packaging>
     <dependencies>
