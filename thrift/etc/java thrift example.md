@@ -27,6 +27,17 @@ system. In this page I will show you how to use it in Java.
 You can click [here](https://thrift.apache.org/docs/install/) to get the thrift for your environment. I have downloaded
 "thrift-0.9.3.exe" for my environment (Windows).
 
+The dependency of project is like following.
+```xml
+<dependencies>
+    <dependency>
+        <groupId>org.apache.thrift</groupId>
+        <artifactId>libthrift</artifactId>
+        <version>0.9.3</version>
+    </dependency>
+</dependencies>
+```
+
 **1. Create `.thrift` file**
 
 `.thrift` file is used to generate the class which is useful for connect client and server. The code of `add.thrift`
