@@ -55,7 +55,7 @@ service AdditionService {
 **2. Generate class by `.thrift` file**
 
 Run `D:\thrift\thrift-0.9.3.exe --gen java add.thrift` (I install thrift in my D driver) it will generate `AdditionService`
-class and move this class into your package.
+class. You need move this class into your package manual and resolve the problem of dependencies manually.
 
 **3. Server and Client class**
 
