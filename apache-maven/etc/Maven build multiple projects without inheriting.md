@@ -3,7 +3,7 @@ If you build root maven project the children project will be built automatically
 I will show you how to build multiple maven projects without inheriting. Let's say you have multiple
 maven projects like following.
 ```
-├─apache-common-dbcp
+├─apache-common-lang3
 │  ├─src
 │  ├─target
 │  └─pom.xml
