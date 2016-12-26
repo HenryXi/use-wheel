@@ -17,6 +17,7 @@
         <module>jackson</module>
         <module>apache-common-io</module>
         <module>thrift</module>
+        <module>apache-maven</module>
     </modules>
     <packaging>pom</packaging>
     <dependencies>
