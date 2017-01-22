@@ -87,8 +87,7 @@ If you want to build a high availability configuration service click [here](http
     }
     ```
     
-    The code of client.
-    
+    The code of client.    
     ```java
     public class ZkTest {
         public static void main(String[] args) throws Exception {
