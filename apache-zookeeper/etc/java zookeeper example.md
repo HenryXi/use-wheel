@@ -86,6 +86,7 @@ If you want to build a high availability configuration service click [here](http
         }
     }
     ```
+    
     The code of client.
     
     ```java
