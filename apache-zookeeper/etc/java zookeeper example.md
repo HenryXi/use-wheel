@@ -6,29 +6,29 @@ If you want to build a high availability configuration service click [here](http
 Download zookeeper from [here](http://zookeeper.apache.org/releases.html) and unzip it. For to start it you need rename
 the `zoo_sample.cfg` to `zoo.cfg`.
 ```bash
-wget http://apache.claz.org/zookeeper/zookeeper-3.4.9/zookeeper-3.4.9.tar.gz
-tar -vxf zookeeper-3.4.9.tar.gz
-cd zookeeper-3.4.9/conf
-cp zoo_sample.cfg zoo.cfg
+    wget http://apache.claz.org/zookeeper/zookeeper-3.4.9/zookeeper-3.4.9.tar.gz
+    tar -vxf zookeeper-3.4.9.tar.gz
+    cd zookeeper-3.4.9/conf
+    cp zoo_sample.cfg zoo.cfg
 ```
 2. Start zookeeper in standalone mode.
 ```bash
-../bin/zkServer.sh start
+    ../bin/zkServer.sh start
 ```
 If zookeeper start successfully the output is like following.
 ```bash
-ZooKeeper JMX enabled by default
-Using config: /root/zookeeper-3.4.9/bin/../conf/zoo.cfg
-Starting zookeeper ... STARTED
+    ZooKeeper JMX enabled by default
+    Using config: /root/zookeeper-3.4.9/bin/../conf/zoo.cfg
+    Starting zookeeper ... STARTED
 ```
 3. Use java api read and write configuration
 The pom file is like following.
 ```java
-<dependency>
-    <groupId>org.apache.zookeeper</groupId>
-    <artifactId>zookeeper</artifactId>
-    <version>3.4.9</version>
-</dependency>
+    <dependency>
+        <groupId>org.apache.zookeeper</groupId>
+        <artifactId>zookeeper</artifactId>
+        <version>3.4.9</version>
+    </dependency>
 ```
 We use `ZkUtil` to create, update and read configuration from zookeeper.
 
