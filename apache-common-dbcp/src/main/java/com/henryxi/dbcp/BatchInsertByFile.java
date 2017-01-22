@@ -19,7 +19,7 @@ public class BatchInsertByFile {
         dataSource.setInitialSize(130);
         dataSource.setUsername("root");
         dataSource.setPassword("123456");
-        dataSource.setUrl("jdbc:mysql://localhost:3306/db");
+        dataSource.setUrl("jdbc:mysql://10.232.56.19:3306/db");
         dataSource.setDefaultAutoCommit(false);
         File file = new File("E:\\data\\www.csdn.net.sql");
         long start = System.currentTimeMillis();
