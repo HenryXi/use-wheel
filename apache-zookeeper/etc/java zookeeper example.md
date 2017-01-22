@@ -3,8 +3,9 @@ In this page I will show you how to use zookeeper as a configuration service. I 
 If you want to build a high availability configuration service click [here](http://zookeeper.apache.org/doc/trunk/zookeeperStarted.html#sc_RunningReplicatedZooKeeper) for more detail.
 
 1. Download and install zookeeper.
-Download zookeeper from [here](http://zookeeper.apache.org/releases.html) and unzip it. For to start it you need rename
-the `zoo_sample.cfg` to `zoo.cfg`.
+
+    Download zookeeper from [here](http://zookeeper.apache.org/releases.html) and unzip it. For to start it you need rename
+    the `zoo_sample.cfg` to `zoo.cfg`.
 ```bash
     wget http://apache.claz.org/zookeeper/zookeeper-3.4.9/zookeeper-3.4.9.tar.gz
     tar -vxf zookeeper-3.4.9.tar.gz
@@ -15,14 +16,14 @@ the `zoo_sample.cfg` to `zoo.cfg`.
 ```bash
     ../bin/zkServer.sh start
 ```
-If zookeeper start successfully the output is like following.
+    If zookeeper start successfully the output is like following.
 ```bash
     ZooKeeper JMX enabled by default
     Using config: /root/zookeeper-3.4.9/bin/../conf/zoo.cfg
     Starting zookeeper ... STARTED
 ```
 3. Use java api read and write configuration
-The pom file is like following.
+    The pom file is like following.
 ```java
     <dependency>
         <groupId>org.apache.zookeeper</groupId>
@@ -30,7 +31,7 @@ The pom file is like following.
         <version>3.4.9</version>
     </dependency>
 ```
-We use `ZkUtil` to create, update and read configuration from zookeeper.
+    We use `ZkUtil` to create, update and read configuration from zookeeper.
 
 ```java
 public class ZkUtil {
@@ -84,7 +85,7 @@ public class ZkUtil {
     }
 }
 ```
-The code of client.
+    The code of client.
 ```java
 public class ZkTest {
     public static void main(String[] args) throws Exception {
@@ -97,4 +98,5 @@ public class ZkTest {
     }
 }
 ```
+
 The one of the advantages of using zookeeper is **change configurations dynamically and read them without restart server**
