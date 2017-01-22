@@ -13,10 +13,11 @@ If you want to build a high availability configuration service click [here](http
     cp zoo_sample.cfg zoo.cfg
 ```
 2. Start zookeeper in standalone mode.
+
 ```bash
     ../bin/zkServer.sh start
 ```
-    If zookeeper start successfully the output is like following.
+If zookeeper start successfully the output is like following.
 ```bash
     ZooKeeper JMX enabled by default
     Using config: /root/zookeeper-3.4.9/bin/../conf/zoo.cfg
