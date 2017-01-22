@@ -101,4 +101,4 @@ If you want to build a high availability configuration service click [here](http
     }
     ```
 
-The one of the advantages of using zookeeper is **change configurations dynamically and read them without restart server**
+The one of the most important advantages of using zookeeper is **change configurations dynamically and read them without restart server**
