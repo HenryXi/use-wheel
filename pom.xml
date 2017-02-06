@@ -19,6 +19,7 @@
         <module>thrift</module>
         <module>apache-maven</module>
         <module>apache-zookeeper</module>
+        <module>dozer</module>
     </modules>
     <packaging>pom</packaging>
     <dependencies>
