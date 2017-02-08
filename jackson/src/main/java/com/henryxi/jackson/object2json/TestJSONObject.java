@@ -4,7 +4,7 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.henryxi.jackson.bean.Group;
 import com.henryxi.jackson.bean.User;
-import net.sf.json.JSONObject;
+import com.henryxi.jackson.bean.WrapperGroup;
 
 public class TestJSONObject {
     public static void main(String[] args) throws JsonProcessingException {
@@ -15,16 +15,5 @@ public class TestJSONObject {
         WrapperGroup wrapperGroup = new WrapperGroup();
         wrapperGroup.setGroup(group);
         System.out.println(objectMapper.writeValueAsString(wrapperGroup));
-    }
-}
-class WrapperGroup{
-    private Group group;
-
-    public Group getGroup() {
-        return group;
-    }
-
-    public void setGroup(Group group) {
-        this.group = group;
     }
 }
