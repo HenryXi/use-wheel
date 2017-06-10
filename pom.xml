@@ -21,6 +21,7 @@
         <module>apache-zookeeper</module>
         <module>dozer</module>
         <module>junit</module>
+        <module>git</module>
     </modules>
     <packaging>pom</packaging>
     <dependencies>
