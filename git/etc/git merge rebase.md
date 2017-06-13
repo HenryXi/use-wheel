@@ -1,4 +1,4 @@
-# Understand git rebase
+# git merge rebase
 There are two ways to put your change to remote: `merge` and `rebase`. Let's say there is a branch and you develop
 your feature in this branch. You `merge` the changes to this branch you will get the result like following.
 ```
