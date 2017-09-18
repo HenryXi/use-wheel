@@ -1,5 +1,5 @@
 #Java POI read excel example
-It is easy to use `Apache POI` read excel file. Let's say you have an excel file. The path of it is `D:\test.xlsx`.
+It's easy to use `Apache POI` read excel file. Let's say you have an excel file. The path of it is `D:\test.xlsx`.
 The content is like following.
 
 |name   |age|
