@@ -23,6 +23,7 @@
         <module>junit</module>
         <module>git</module>
         <module>apache-poi</module>
+        <module>idea</module>
     </modules>
     <packaging>pom</packaging>
     <dependencies>
