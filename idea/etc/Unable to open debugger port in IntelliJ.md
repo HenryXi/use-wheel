@@ -5,12 +5,12 @@ Error running '<application_name>': Unable to open debugger port (127.0.0.1:5721
 ``` 
 * Solution
 
-1. Open `Event Log` in the right bottom. My `Event Log` is here
+1. Open right bottom `Event Log` window. My `Event Log` is here
 ```
 16:01	Error running '<application_name>': Address localhost:8080 is already in use
 16:01	Error running '<application_name>': Unable to open debugger port (127.0.0.1:57214): java.net.SocketException "socket closed"
 ```
-2. Check the port can not open.(In my environment, the http port 8080)
+2. Check the port can not open.(In my environment, the port is 8080)
 3. Change the port or close the application which use that port.
 
 * How to change the tomcat port in IDEA ?
