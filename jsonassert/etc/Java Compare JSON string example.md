@@ -1,5 +1,5 @@
 # Java Compare JSON string example
-Use `jsonassert` framework to compare two json is same or not. It only compare the content of them. The example code is
+Use `jsonassert` framework to compare two json are same or not. It only compare the content of them. The example code is
 here;
 ```java
 public class JsonAssertClient {
