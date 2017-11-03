@@ -24,6 +24,7 @@
         <module>git</module>
         <module>apache-poi</module>
         <module>idea</module>
+        <module>jsonassert</module>
     </modules>
     <packaging>pom</packaging>
     <dependencies>
