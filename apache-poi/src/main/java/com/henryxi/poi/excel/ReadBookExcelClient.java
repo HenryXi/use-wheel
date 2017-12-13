@@ -1,4 +1,4 @@
-package com.henryxi.poi;
+package com.henryxi.poi.excel;
 
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;

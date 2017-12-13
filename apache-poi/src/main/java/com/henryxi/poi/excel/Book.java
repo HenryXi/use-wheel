@@ -1,4 +1,4 @@
-package com.henryxi.poi;
+package com.henryxi.poi.excel;
 
 public class Book {
     private String title;
