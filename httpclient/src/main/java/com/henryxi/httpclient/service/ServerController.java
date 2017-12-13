@@ -2,10 +2,7 @@ package com.henryxi.httpclient.service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 @RestController
 @EnableAutoConfiguration
@@ -21,6 +18,11 @@ public class ServerController {
     @RequestMapping(path = "/post", method = RequestMethod.POST)
     public String post(@RequestBody UserBean userBean) {
         return "This is Post response:" + userBean.toString();
+    }
+
+    @RequestMapping(path = "/post-form", method = RequestMethod.POST)
+    public String postForm(@RequestParam String name) {
+        return "This is Post response:" + name;
     }
 
     public static void main(String[] args) throws Exception {
