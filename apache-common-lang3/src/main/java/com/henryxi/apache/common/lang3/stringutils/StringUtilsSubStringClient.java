@@ -1,4 +1,4 @@
-package com.henryxi.apache.common.lang3;
+package com.henryxi.apache.common.lang3.stringutils;
 
 import org.apache.commons.lang3.StringUtils;
 
