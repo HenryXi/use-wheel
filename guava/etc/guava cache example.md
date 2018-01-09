@@ -1,6 +1,6 @@
 # guava cache example
 Cache is very important for the project. Redis or MemoryCache are good choose for distribution project. If you want use 
-local cache for your project `guava` is a good choose. I will show you how to use guava cache.
+local cache for your project `guava` is a good choose. I will show you how to use guava cache in this page.
 
 **pom.xml**
 ```xml
