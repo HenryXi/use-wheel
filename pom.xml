@@ -25,6 +25,7 @@
         <module>apache-poi</module>
         <module>idea</module>
         <module>jsonassert</module>
+        <module>guava</module>
     </modules>
     <packaging>pom</packaging>
     <dependencies>
