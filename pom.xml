@@ -26,6 +26,7 @@
         <module>idea</module>
         <module>jsonassert</module>
         <module>guava</module>
+        <module>nginx</module>
     </modules>
     <packaging>pom</packaging>
     <dependencies>
