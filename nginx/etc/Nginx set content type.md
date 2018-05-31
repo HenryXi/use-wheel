@@ -1,5 +1,5 @@
 # Nginx set content type
-Nginx will add `Content-Type` depend on suffix of url in response header. The mapping of suffix and `Content-Type` is in
+Nginx will add `Content-Type` depend on suffix of url in response header. The suffix and `Content-Type` mapping are in
 `/etc/nginx/mime.types`. There are two ways to change `Content-Type` in Nginx.
 
 **1. edit `mime.types` to map suffix and `Content-Type`**
