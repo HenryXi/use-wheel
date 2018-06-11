@@ -27,6 +27,7 @@
         <module>jsonassert</module>
         <module>guava</module>
         <module>nginx</module>
+        <module>vi</module>
     </modules>
     <packaging>pom</packaging>
     <dependencies>
