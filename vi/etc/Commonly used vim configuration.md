@@ -7,7 +7,7 @@ set tabstop=4
 set shiftwidth=4
 set expandtab
 set showmatch
-autocmd BufRead,BufNewFile {*.markdown,*.mdown,*.mkdn,*.md,*.mkd,*.mdwn,*.mdtxt,*.mdtext,*.text} set filetype=markdown 
+autocmd BufRead,BufNewFile {*.markdown,*.mdown,*.mkdn,*.md,*.mkd,*.mdwn,*.mdtxt,*.mdtext,*.text} set filetype=markdown.pandoc
 autocmd FileType markdown setlocal syntax=off spell spelllang=en_us,cjk
 ```
 
