@@ -28,6 +28,7 @@
         <module>guava</module>
         <module>nginx</module>
         <module>vi</module>
+        <module>gson</module>
     </modules>
     <packaging>pom</packaging>
     <dependencies>
