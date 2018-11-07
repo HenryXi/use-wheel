@@ -1,4 +1,4 @@
-package com.henryxi.httpclient.service;
+package com.henryxi.httpclient.mockserver;
 
 import javax.xml.bind.annotation.XmlRootElement;
 
