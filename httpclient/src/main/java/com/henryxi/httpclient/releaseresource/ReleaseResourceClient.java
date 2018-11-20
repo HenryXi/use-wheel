@@ -17,20 +17,24 @@ public class ReleaseResourceClient {
 
     private static void withoutRelease(CloseableHttpClient httpClient) throws IOException {
         do {
-            HttpGet httpGet = new HttpGet("http://localhost:8080/get");
+            HttpGet httpGet = new HttpGet("http://192.168.56.6:8080/get");
             CloseableHttpResponse getResponse = httpClient.execute(httpGet);
-            System.out.println("get request status: " + getResponse.getStatusLine());
-            System.out.println("get request content: " + IOUtils.toString(getResponse.getEntity().getContent()));
+            InputStream inputStream = getResponse.getEntity().getContent();
+            int read1 = inputStream.read();
+            int read2 = inputStream.read();
+            inputStream.close();
         } while (true);
     }
 
     private static void withRelease(CloseableHttpClient httpClient) throws IOException {
-        HttpGet httpGet = new HttpGet("http://localhost:8080/get");
-        try (CloseableHttpResponse getResponse = httpClient.execute(httpGet)) {
-            System.out.println("get request status: " + getResponse.getStatusLine());
-            try (InputStream contentStream = getResponse.getEntity().getContent()) {
-                System.out.println("get request content: " + IOUtils.toString(contentStream));
+        do {
+            HttpGet httpGet = new HttpGet("http://192.168.56.6:8080/get");
+            try (CloseableHttpResponse getResponse = httpClient.execute(httpGet)) {
+                System.out.println("get request status: " + getResponse.getStatusLine());
+                try (InputStream contentStream = getResponse.getEntity().getContent()) {
+                    System.out.println("get request content: " + IOUtils.toString(contentStream));
+                }
             }
-        }
+        } while (true);
     }
 }

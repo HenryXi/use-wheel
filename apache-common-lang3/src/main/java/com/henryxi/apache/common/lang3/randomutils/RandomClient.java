@@ -9,5 +9,8 @@ public class RandomClient {
         System.out.println("random 6 digit number:" + sixLengthRandomNumber);
         String sixRandomNumber = RandomStringUtils.randomNumeric(6);
         System.out.println("random 6 digit number:" + sixRandomNumber);
+        for (int i = 0; i < 10; i++) {
+            System.out.println(RandomStringUtils.randomAlphanumeric(32));
+        }
     }
 }
