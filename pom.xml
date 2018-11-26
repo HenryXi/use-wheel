@@ -29,6 +29,7 @@
         <module>nginx</module>
         <module>vi</module>
         <module>gson</module>
+        <module>java-microbenchmark-harness</module>
     </modules>
     <packaging>pom</packaging>
     <dependencies>
