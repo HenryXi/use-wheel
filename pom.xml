@@ -28,6 +28,7 @@
         <module>vi</module>
         <module>gson</module>
         <module>java-microbenchmark-harness</module>
+        <module>fastjson</module>
     </modules>
     <packaging>pom</packaging>
     <dependencies>
