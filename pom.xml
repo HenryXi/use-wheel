@@ -14,14 +14,12 @@
         <module>jedis</module>
         <module>httpclient</module>
         <module>apache-common-dbcp</module>
-        <module>jackson</module>
         <module>apache-common-io</module>
         <module>thrift</module>
         <module>apache-maven</module>
         <module>apache-zookeeper</module>
         <module>dozer</module>
         <module>junit</module>
-        <module>git</module>
         <module>apache-poi</module>
         <module>idea</module>
         <module>jsonassert</module>
