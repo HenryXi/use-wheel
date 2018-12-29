@@ -1,6 +1,6 @@
 # Apache commons stopwatch example
 The class `StopWatch` class which in `apache-common-lang` package is a good tool for timing. It provides some useful method
-to measured running time of program. Most of methods of `StopWatch` is easy to understand. Only one method: `split()` need 
+to measured running time of program. Most of these methods of `StopWatch` are easy to understand. Only one method: `split()` need 
 us try to understand. 
 
 `split()` method will save current time for you. If you call `getSplitTime()` it will return the time
