@@ -29,6 +29,7 @@
         <module>gson</module>
         <module>java-microbenchmark-harness</module>
         <module>fastjson</module>
+        <module>okhttp</module>
     </modules>
     <packaging>pom</packaging>
     <dependencies>
