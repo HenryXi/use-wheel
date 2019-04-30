@@ -30,6 +30,7 @@
         <module>java-microbenchmark-harness</module>
         <module>fastjson</module>
         <module>okhttp</module>
+        <module>apache-commons-codec</module>
     </modules>
     <packaging>pom</packaging>
     <dependencies>
