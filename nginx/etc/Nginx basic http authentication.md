@@ -1,6 +1,7 @@
 # Nginx basic http authentication
 I want to add basic http authentication in my personal wiki. I don't want to write any code to implement this function.
-After searching on the Internet, I found Nginx can do this by adding configuration.
+After searching on the Internet, I found Nginx can do this by adding configuration. `basic http authentication` is very
+simple and unsafe. It adds user name and password information in http header which encoded by base64.
 
 **Install `httpd-tools` and generate password**
 
