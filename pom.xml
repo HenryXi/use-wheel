@@ -32,6 +32,7 @@
         <module>okhttp</module>
         <module>apache-commons-codec</module>
         <module>apache-commons-crypto</module>
+        <module>apache-log4j</module>
     </modules>
     <packaging>pom</packaging>
     <dependencies>
