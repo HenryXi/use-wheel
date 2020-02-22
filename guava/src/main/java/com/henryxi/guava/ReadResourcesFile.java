@@ -1,7 +1,6 @@
 package com.henryxi.guava;
 
 import com.google.common.io.Resources;
-import sun.misc.Resource;
 
 import java.io.IOException;
 import java.net.URL;
