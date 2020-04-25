@@ -7,7 +7,7 @@ import org.apache.commons.lang3.StringUtils;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.TimeUnit;
 
-public class GuavaClient {
+public class CacheClient {
     public static void main(String[] args) throws ExecutionException, InterruptedException {
         long timestamp = System.currentTimeMillis();
         Cache<String, String> localCache = CacheBuilder.newBuilder().expireAfterWrite(1, TimeUnit.SECONDS).build();
