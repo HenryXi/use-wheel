@@ -1,4 +1,4 @@
-package com.henryxi.httpclient;
+package com.henryxi.httpclient.simple;
 
 import org.apache.http.HttpResponse;
 import org.apache.http.HttpStatus;
