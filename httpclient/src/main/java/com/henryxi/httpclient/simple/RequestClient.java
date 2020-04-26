@@ -1,4 +1,4 @@
-package com.henryxi.httpclient;
+package com.henryxi.httpclient.simple;
 
 import org.apache.commons.io.IOUtils;
 import org.apache.http.client.methods.CloseableHttpResponse;
