@@ -33,6 +33,7 @@
         <module>apache-commons-codec</module>
         <module>apache-commons-crypto</module>
         <module>apache-log4j</module>
+        <module>hystrix</module>
     </modules>
     <packaging>pom</packaging>
     <dependencies>
