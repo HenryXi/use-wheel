@@ -1,6 +1,10 @@
 package com.henryxi.httpclient.youdao;
 
+import com.fasterxml.jackson.core.JsonGenerator;
+import com.fasterxml.jackson.databind.DeserializationFeature;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import org.apache.commons.codec.digest.DigestUtils;
+import org.apache.commons.io.FileUtils;
 import org.apache.commons.io.IOUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.http.NameValuePair;
@@ -11,18 +15,37 @@ import org.apache.http.impl.client.CloseableHttpClient;
 import org.apache.http.impl.client.HttpClients;
 import org.apache.http.message.BasicNameValuePair;
 
-import java.io.IOException;
+import java.io.File;
 import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.UUID;
 
 public class RequestClient {
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws Exception {
+        ObjectMapper objectMapper = new ObjectMapper().configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false)
+                .configure(JsonGenerator.Feature.ESCAPE_NON_ASCII, true);
+        File file = new File("D:\\code\\use-wheel\\httpclient\\src\\main\\resources\\investing.txt");
+        File target = new File("D:\\code\\use-wheel\\httpclient\\src\\main\\resources\\target.txt");
+        List<String> lines = FileUtils.readLines(file, "UTF-8");
+        for (String line : lines) {
+            line = line.replaceAll("\\p{C}", "");
+            if (StringUtils.isEmpty(line)) {
+                FileUtils.writeStringToFile(file, "\n", true);
+            } else {
+                String responseJson = translate(line);
+                Response response = objectMapper.readValue(responseJson, Response.class);
+                for (String sentence : response.getTranslation()) {
+                    FileUtils.writeStringToFile(target, sentence+"\n", true);
+                }
+            }
+        }
+    }
+
+    private static String translate(String tobeTranslate) throws Exception {
         CloseableHttpClient httpClient = HttpClients.createDefault();
         HttpPost postRequest = new HttpPost("https://openapi.youdao.com/api");
         List<NameValuePair> urlParameters = new ArrayList<>();
-        String tobeTranslate = "Royalty trusts, like MLPs, generally invest in energy sector assets. Unlike the steady cash flows at MLPs, royalty trusts generate income from the production of natural resources such as coal, oil, and natural gas. These cash flows are subject to swings in commodity prices and production levels, which can cause them to be very inconsistent from year to year. The trusts have no physical operations of their own and have no management or employees. Rather, they are merely financing vehicles that are run by banks, and they trade like stocks. Other companies mine the resources and pay royalties on those resources to the trust. For example, Burlington Resources, an oil exploration and production company, is the operator for the assets that the largest U.S. royalty trust, San Juan Basin Royalty Trust (SJT), owns the royalties on.";
         String appKey = "0ed5c45bb1b78f5a";
         String salt = UUID.randomUUID().toString();
         String curtime = String.valueOf(System.currentTimeMillis() / 1000);
@@ -39,14 +62,14 @@ public class RequestClient {
         try (CloseableHttpResponse httpResponse = httpClient.execute(postRequest)) {
             System.out.println("get request status: " + httpResponse.getStatusLine());
             try (InputStream contentStream = httpResponse.getEntity().getContent()) {
-                System.out.println("get request content: " + IOUtils.toString(contentStream));
+                return IOUtils.toString(contentStream);
             }
         }
     }
 
     private static String getSign(String appKey, String tobeTranslate, String salt, String curtime) {
         String input;
-        if (tobeTranslate.length() < 20) {
+        if (tobeTranslate.length() <= 20) {
             input = tobeTranslate;
         } else {
             String first10 = StringUtils.substring(tobeTranslate, 0, 10);

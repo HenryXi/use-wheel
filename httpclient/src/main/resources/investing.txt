@@ -1,0 +1,1514 @@
+"Don't let the tail wag the dog."
+That well-worn expression applies to so many things in life – including investing. Specifically, you'll hear some investing "experts" say that you shouldn't let taxes drive your investment decisions. Others, meanwhile, will argue the exact opposite.
+Portfolio 505offers some guidelines for how to think about tax matters in the investment process.
+Factor Investing
+
+Most investors have heard of factor investing, but just may not know it. If you've ever favored smaller companies to larger companies, you've engaged in factor investing.
+Portfolio 506traces the history of factor investing.
+Behavioral Pitfalls
+
+Psychological factors--such as the tendency to feel particularly risk-averse following a bear market or a proclivity to follow the crowd--can play enormous roles in our investment outcomes, and often they are not positive ones.
+Portfolio 507and 508 outline 10 of the most common behavioral pitfalls that investors make.
+The Bucket Approach to Retirement Allocation
+Here's your assignment: Gather up all of your retirement accounts and shape them into a portfolio that will supply you with the income you'll need during your retirement years. Oh, and one other tiny to-do: You'll also need to make sure you never run out of money, even though you don't know exactly how long you'll need it.
+In the past, one simple and elegant solution to the above problem was to buy an immediate annuity that would pay you a stream of income for the rest of your life. But many investors don't like the loss of control that accompanies annuities. One other intuitively appealing idea is to sink your portfolio into income-producing investments such as bonds and dividend-paying stocks and live off whatever yield they generate. That way you might never have to tap your principal at all. The big drawback, however, is that you're buffeted around by whatever the interest-rate gods serve up. When yields are up, you're living high off the hog; when they're miserly, you have the unappetizing choice of scaling your spending way back or venturing into riskier income-producing securities to get the yield you need.
+It's no wonder that so many retirees and pre-retirees have been receptive to another strategy: "bucketing" their portfolio for retirement. At its core, bucketing is a total-return approach in which you segment your portfolio based on when you expect to need your money. Money for near-term income needs is parked in cash and short-term bonds, while money needed for longer-range income needs remains in bonds and stocks.
+Portfolio 509details how the bucket approach to retirement allocation works.
+
+What's the Right Foreign Allocation?
+
+U.S.-based investors keep hearing that it's a small world, and they should therefore globalize their portfolios in an effort to maximize their return opportunity. But how should investors decide how much foreign exposure is too much and how much is not enough?Portfolio 510sorts through the issues.
+
+502: Efficient Market Theory
+Introduction
+Given the seemingly nonsensical price swings in the stock market, it's hard to believe that anyone could call the stock market "efficient." Yet that's exactly what Burton Malkiel did in his 1973 book,A Random Walk Down Wall Street.
+This course explains what efficient market theory is, explores the arguments against it, and shows what the theory has to do with your portfolio.
+
+What Efficient Market Theory Is
+
+Efficient market theory--or as it's technically known, Efficient Market Hypothesis--is an attempt to explain why stocks behave the way they do.
+The hypothesis holds that stock prices reflect all the publicly available information about companies. Stock prices aren't necessarily "right," but they're as correct as they possibly could be. As a result, says Malkiel, "a chimpanzee throwing darts atThe Wall Street Journalcan select a portfolio that performs as well as those managed by the experts."
+Given how broad the original Efficient Market Hypothesis (EMH) was, a noted academic, Eugene Fama, later divided the theory into three subhypotheses.
+The weak-form EMH assumes that current stock prices fully reflect all historical information, including past returns. Thus investors would gain little from technical analysis, or the practice of studying a stock's price chart in an attempt to determine where the stock price is going to go in the future.
+The semi-strong EMH form assumes that stock prices fully reflect all historical informationandall current publicly available information. Thus, investors gain little from fundamental analysis, or the practice of examining a company's financial statements and recent developments.
+Finally, the strong-form EMH states that prices reflect not just historical and current publicly available information, but insider information, too. Investors therefore can't benefit from technical analysis, fundamental analysis, or insider information
+The Conclusions of Efficient Market Theory
+
+Let's take an example. Company Asells at $53 per share. According to efficient market theory, that $53 price tag takes into account all factors that affect the stock, including the company's growth history up until that time, such as its profitability, the quality of its management, and what analysts were predicting the company would earn in the future.
+Efficient-market theorists don't claim that any one investor thinks about all these things when buying stocks. Maybe some investors bought Company A because they liked what management said in its latest earnings release, or because they liked the company's products. But the activity ofallinvestors, which is what actually drives the stock's price, collectively reflects all of those factors.
+What's the practical application of this theory? Because the market is efficient, with prices moving so quickly as new information comes out about a company, no one can consistently buy and sell quickly enough to benefit from the information. As a result, neither you nor professional money managers can beat the market for an extended period of time. Instead of trying to beat the market, say efficient market theory's supporters, you should just index, or buy and hold all the stocks in the market.
+Strikes Against Efficient Markets Theory
+
+In the 1980s, academics challenged the theory. And the October 1987 stock market crash left economists, money managers, and investors asking: "Did the market accurately reflect all publicly available information about these companies before the crash? If so, how could the crash have happened?"
+Even Malkiel himself admitted in the sixth edition ofA Random Walk(published in 1995) that "while the reports of the death of the efficient-market theory are vastly exaggerated, there do seem to be some techniques of stock selection that may tilt the odds of success in favor of the individual investor."
+Some of the more-notable studies that threw the weak-form EMH into question included research by Eugene Fama and Kenneth French. The duo found that buying stocks that have performed poorly during the past few years led to superior returns over the next few years.In other words, a strategy of buying unpopular stocks can lead to better results than a strategy of buying popular stocks. That's because the market can get carried away with fashionable stocks, and pessimism can be overdone.
+Academics uncovered stock-market patterns that questioned the semi-strong EMH, too. They found that stocks with low price/earnings and/or price/book multiples produce above-average returns over time.
+Finally, researchers have shown how stock splits, dividend increases, insider buying, and merger announcements can dramatically affect stock prices, thereby proving false the strongest-form EMH.
+The Upshot
+
+So is EMH a has-been? Perhaps. But the question for you as an investor is whether you can effectively take advantage of the market anomalies that challenge EMH. Pricing irregularities do exist. So do predictable patterns. But there's no guarantee that they'll continue, nor that you (or your fund managers) will be able to spot them and take advantage of them.
+If you believe in EMH, then you should be indexing the market. If you don't believe in EMH, then you should pick your own stocks, or pay mutual fund managers to choose stocks for you. If you see merit in both sides, index part of your portfolio and actively pick stocks with the other part of it. Investing doesn't have to be a choice between efficient market theory and active management. There's room in your portfolio for both.
+503: Modern Portfolio Theory
+Introduction
+Nothing ventured, nothing gained. You can't have your cake and eat it, too. Life is a series of trade-offs.
+We're all familiar with these mottos, which remind us that to get something, we have to give something up.
+Investing requires sacrifices, too. We have give up safety and take on risk to achieve better returns. Modern Portfolio Theory (MPT) tries to make the most of the trade-off, illustrating how to generate as much return as possible for the least amount of risk.
+This course will examine the relationship between an investment's risk and its return, how diversification allows you to achieve the maximum amount of return for the least amount of risk, and the role MPT can play in your portfolio.
+
+Risk and Return
+With any reward--such as a great-performing stock or mutual fund--there's always some element of risk. And the greater the potential reward, the greater the potential risk.
+It's hard to imagine a time when the risk/reward relationship was considered revolutionary. But, prior to Harry Markowitz's 1952 dissertation, Portfolio Selection, investment theory didn't discuss the risks of investing. Instead, it was flush with ideas for maximizing return.
+Markowitz believed, and mathematically proved, that there is a direct relationship between an investment's risk and its reward. He saw risk as an equal partner with expected gain. As such, he argued that investors need to manage the tension between risk and return in the investment process.
+Markowitz also argued that investors should be measuring, monitoring, and controlling risk at the portfolio level, not at the individual-security level. As a result, individual securities should be chosen based not only on their own merit, but also on how they affect the portfolio as a whole.
+
+Diversification and an "Efficient" Portfolio
+
+According to MPT, you can limit the volatility of your portfolio by spreading out your risk among different types of investments. In fact, by putting together a basket of risky or volatile stocks, the overall risk of the portfolio would actually be less than any one of the individual stocks in it.
+Diversification depends more on how the securities perform relative to one another than on the number of securities you own, though. Markowitz compared a portfolio of 60 railway securities with another portfolio of the same size that included railroads, utilities, mining, and manufacturing companies. He concluded that the latter is better diversified. "The reason is that it is generally more likely for firms within the same industry to do poorly at the same time than for firms in dissimilar industries," he says.
+The "right" kind of diversification requires that you own securities that don't behave alike. In other words, their price movements have low correlation with each other.
+Correlation measures the degree at which two securities move in similar patterns. Its value ranges from -1.0, indicating two securities moving perfectly opposite each other, to 1.0, indicating two securities moving in tandem. So to spread out your risk, you would want the securities in your portfolio to have correlations closer to -1.0 than to 1.0.
+According to Markowitz, the goal is to craft an "efficient" portfolio. An efficient portfolio is either a portfolio that offers the highest expected return for a given level of risk, or one with the lowest level of risk for a given expected return. The line that connects all these efficient portfolios is the efficient frontier. The efficient frontier represents that set of portfolios that has the maximum rate of return for every given level of risk. The last thing investors want is a portfolio with a low expected return and high level of risk.
+No point on the efficient frontier is any better than any other point. Investors must examine their own risk/return preferences to determine where they should invest on the efficient frontier. But, theoretically at least, the efficient frontier allows you to reduce your risk at no cost in return. Or you can increase return at any particular level of risk.
+Applying Modern Portfolio Theory to Your Investment Reality
+While the idea of an efficient portfolio and the efficient frontier graph make great theory, how can they be applied to your own investment situation? After all, few individual investors can create efficient frontier graphs for themselves, nor determine what their efficient portfolio would be. And even if investors had the time and technology to do so, market prices change, and the riskiness of asset classes isn't static.
+What's important here isn't the details of the efficient frontier graph, nor finding the most efficient portfolio for you. Rather, the takeaways from Modern Portfolio Theory are:
+1. Risk and return are directly linked. If you want a chance at greater returns, you'll need to take on more risk.
+2. Diversification across securities that do not behave alike reduces your portfolio's overall risk.
+Those two concepts are so firmly ingrained among investors that you probably used them to build your portfolio, even if you'd never heard about Modern Portfolio Theory before today. For example, your asset allocation is the direct result of your time horizon, risk tolerance, and financial goal. To reach that goal in the appropriate amount of time, you must take on a certain level of risk.
+Further, you're likely controlling risk in your portfolio by mixing investments that have a low correlation with one another. For example, the stock and bond markets don't usually move in the same direction. By having a portfolio that includes both stocks and bonds, you're one step closer to a more diversified and less risky portfolio.
+
+504: Asset Allocation Is "It"
+Introduction
+
+Do you remember the U.S. Department of Agriculture's food pyramid? Even though the USDA abandoned the pyramid as an image to help set dietary priorities, it's still a useful shape to convey how to allocate your time and resources, including when you're investing.
+At the bottom of the pyramid are the activities that you should spend the most time and energy on because they have the biggest impact on your results. They're the equivalent of broccoli and brown rice. Meanwhile, at the top are tasks that, though worthwhile, will have a smaller impact on your bottom line.
+Here's a look at the investment pyramid Morningstar's Director of Financial Planning, Christine Benz, would propose, ranging from what should be investors' top priorities--the base of the pyramid--to the least important ones. If you have a finite amount of time to devote to your investment activities, this can help guide the way.
+Pyramid's Base: Set Goals
+You know how it is when you don't start a day with a to-do list? You get buffeted around by whatever comes up. Phone calls, answering emails, chatting with colleagues about favorite childhood candy bars, and whoops--how on earth did it get to be 11:20 already?
+Managing your finances without first articulating your near- and long-term goals is pretty similar. The days will go by, and you'll no doubt find plenty of ways to spend your money. But you won't necessarily get to where you really wanted to go. Rather than operating with the amorphous goal of "wealth accumulation," take a step back and articulate the specifics of what you're trying to achieve, when you'll need the money, and how much.
+Paying the full freight for college for each of your kids? Retirement while you're still young enough to enjoy it? A move to a bigger house within the next five years? By quantifying each of your financial goals, you may see that it's not going to be possible to achieve them all, but it's better to know that early on so you can prioritize. And each of those goals likely carries its own time horizon, which in turn will dictate what types of investments you hold and where.
+Once you've set your baseline goals and quantified how much they'll cost, checking your progress toward them can serve as the ultimate financial checkup; monitoring specific investments is secondary.
+
+Next Band: Manage Saving/Spending Rates
+
+Budgeting is boring, which is why it's easy to give short shrift to it in favor of sexier pursuits such as trading stocks. But even if you select the very best investments, you'll be hard-pressed to make up for a shortfall if you haven't saved enough. That's why setting your saving and spending rate has far more importance in the pyramid than does investment selection.
+As a result of technological advances and new electronic budgeting tools, there have never been more ways to monitor and manage your spending. This is key to ensure that your savings rate puts you on track to achieve the above-mentioned goals. For people who prefer the pen and paper route, you can find budgeting worksheets online.
+Note that this concept matters long after you've stopped saving, too. For retirees, the difference between a 4% and a 6% withdrawal rate can be enormous when it comes to the viability of a retirement plan. Being able to adjust one's spending rate--especially downward in times of market duress--has also emerged as a best practice in the realm of retirement portfolio management because it helps a retiree avoid turning paper losses into real ones.
+Next Band: Asset Allocation
+For more than 25 years, academics have been debating the role that asset allocation--a portfolio's division among stocks, bonds, and cash--plays in investment results. Specific findings have varied, but there's near-universal consensus both in the academic community and among practitioners that the asset-allocation mix you choose matters a lot. A portfolio that consists entirely of cash and short-term bonds will exhibit very few fluctuations, which can provide peace of mind and may be appropriate for very short-term goals. Over time, however, it will get eaten alive by a portfolio that includes a stock component.
+Specific recommendations about asset allocation will vary by advisor and financial-services company, but the basic rules of the road should hold you in good stead during your investing career.
+For your long-term goals, start heavy with high-quality stocks, then gradually shift more into safer securities as your need for the money draws near. And be careful not to gorge on niche investments such as gold and emerging-markets stocks, whose returns are sometimes explosive but so is their downside potential. Diversify reasonably among the core asset classes--high-quality stocks, high-quality bonds, and cash--and you'll be OK.
+
+505: Diversifying with Foreign Stocks
+Introduction
+
+When it comes to matters of money and investing, there are a handful of topics that make anyone's head hurt. One of them is asset location--essentially, the placement of investments in taxable or tax-sheltered accounts.
+This course will explain the challenges investors face with asset location, and provide some general guidelines for navigating this confusing landscape.
+Why is asset location such a sticky wicket?
+For one thing, the tax treatment of investments changes frequently, so what might be an optimal asset placement today might not be a few years from now.
+Dividends provide a great case in point. Prior to 2003, income from stock dividends was taxed at the ordinary income tax rate, so you'd generally want to hold income-rich stocks in your tax-sheltered accounts. But when dividends began to be taxed at the lower capital gains tax rate, they were no longer verboten for taxable accounts.
+In addition to tax treatment confusion, practical considerations sometimes completely contradict advice that makes good tax sense. When we're in accumulation mode, most of us naturally use our retirement accounts (401(k)s and other company-retirement plans and IRAs) as a storehouse for our longest-term savings, so it's only logical that we'd be inclined to invest in long-term assets (namely, stocks) there.
+Meanwhile, from a practical standpoint it's logical to want to hold more safe, stable, and liquid assets (namely, bonds and cash) in accounts that we can readily tap without strictures or penalties--our taxable accounts. Yet as much logical sense as those asset-placement arrangements might seem to make, they precisely contradict what a tax advisor would tell you to do. Because income from bonds and cash is taxed at your ordinary income tax rate, that's a powerful argument for holding bonds in your tax-sheltered accounts while keeping at least some stocks in your taxable account.
+There are no one-size-fits-all solutions, and it's worth revisiting your asset-location framework every few years, to make sure your plan syncs up with the current tax rules. But here are some general guidelines.
+
+Tax-Sheltered Accounts = High Returners With High Tax Costs
+Because you don't have to pay taxes from year to year on income or capital gains you earn in tax-sheltered accounts like IRAs and 401(k)s, these are good receptacles for higher-returning investments that also have heavy tax consequences. The best example would be junk bonds, junk-bond funds, and multi-sector-bond funds, all of which kick off a high percentage of taxable income. And while it's a stretch to call high-quality bonds and bond funds "high-returning", they're also a better fit for tax-sheltered accounts than for taxable because their payouts are taxed at an investor's ordinary income tax rate.
+So generally speaking, to the extent that you hold bonds, you're better off doing so within the confines of a tax-sheltered account. If you need to hold bonds in your taxable accounts, determine whether a municipal bond or bond fund might offer you a better aftertax yield than a taxable bond investment. (Income from munis is free of federal and, in some cases, state income taxes.)
+By contrast, stocks and stock funds are generally a better bet for taxable accounts, for reasons outlined in the next section. That said, not all stocks belong in the taxable bin. Although they enjoy relatively low tax treatment currently, dividend-paying stocks are arguably a better fit for tax-sheltered rather than taxable accounts. The key reason is control. Dividend income, like bond income, isn't discretionary. Whereas stock investors can delay the receipt of capital gains simply by hanging on to the stock, investors in dividend-paying stocks don't have that kind of control; they get a payout whether they like it or not. That makes dividend payers, regardless of tax treatment, less attractive than nondividend payers from a tax standpoint.
+Your tax-sheltered accounts are also the right spot for REITs, whose payouts are generally considered nonqualified and taxed at ordinary income tax rates. Preferred stock, too, is on the bubble, depending on the type of preferred you're dealing with, and therefore is apt to be a better fit within the confines of a tax-sheltered account. Traditional preferreds generally qualify for dividend-tax treatment, whereas income from trust preferreds is taxed at an investor's ordinary income tax rate. Dividends from some foreign stocks and funds may also be classed as nonqualified, meaning they will be taxed as income.
+Finally, to the extent that you hold mutual funds that churn through their portfolios frequently, you're better off doing so within your company-retirement plan or IRA. Such funds tend to generate a lot of short-term capital gains, which are also taxed as ordinary income.
+
+Taxable Accounts = Higher Returners With Low Tax Costs
+
+The above exceptions notwithstanding, there are compelling reasons to hold stocks in your taxable rather than tax-sheltered accounts.
+As noted earlier, long-term capital gains, which is what you have when you sell a stock that you've held for at least a year, are taxed at a much lower rate than is bond income-consult the IRS' web site for current long-term capital gains tax rates by income-tax bracket.
+Another key reason to hold stock in your taxable accounts is that stock investors can also exert a higher level of control over the receipt of capital gains than bond investors--for example, by buying and holding individual stocks or by investing in exchange-traded funds, which have a built-in mechanism for limiting taxable capital gains payouts. Tax-managed funds and traditional broad-market stock-index funds also tend to do a good job of keeping the lid on distributing capital gains
+Either Account = Lower Returners With High Tax Costs
+
+So the key rules of thumb are that stocks go in taxable accounts and bonds go in tax-sheltered wrappers. But what about lowly old cash? From a pure tax standpoint, holding the assets in a tax-sheltered account makes the most sense, as income from cash investments is taxable as ordinary income, just like bond income.
+Here's a case, however, where practical considerations may override the tax argument. One of the key benefits of cash is easy access to your money when you need it, so it simply may not make sense to store cash for near-term income needs in tax-sheltered accounts, where you may face taxes and other penalties to pull it out prematurely. And because you're receiving a minuscule income stream from most cash investments these days (you might be holding them for stability as much as real income), the tax hit associated with holding cash in a taxable account is apt to be quite low for most investors.
+The bottom line is that if you're holding cash for near-term income needs or as an emergency fund, it makes sense to hold it in a taxable account. If you're holding a sleeve of cash as a component of your retirement portfolio's long-term strategic asset-allocation plan, it's fine to hold it within the context of your tax-sheltered account.
+506: Value: The "Better" Approach?
+Introduction
+Unless you like to open the occasional dusty academic tome, chances are you're not intimately familiar with factor investing. It's really not as esoteric as it sounds.
+You've heard of style investing--small cap versus large cap, or value versus growth. If you've ever tilted to a particular style, you've engaged in factor investing. Style investing is a kind of factor investing, dealing with only two factors: size (large-small) and value (value-growth).
+A working definition of a factor is an attribute of an asset that both explains and produces excess returns. Factor investing can be thought of as buying these return-generating attributes rather than buying asset classes or picking stocks.
+This course covers the history of factor investing, some stock factors, and how factors create excess returns.
+
+History
+
+The original factor theory, dating back to the 1960s, is the capital asset pricing model, or CAPM, which predicts that the only determinant of an asset's expected return is how strongly its returns move (or, in technical terms, covary) with the market's.
+The strength of the relationship is summarized in a variable called beta. A beta of 1 indicates that for each percentage point the market moves, an asset's price moves in the same direction by a percentage point. CAPM predicts asset returns are linearly related to market beta.
+However, since the 1970s, academics have known that stock returns don't seem to be related to beta. This finding spurred many fruitless or convoluted attempts to explain how market efficiency could be squared with a world in which CAPM didn't work.
+Other Factors
+Eugene Fama and Kenneth French "fixed" the CAPM, at least for stocks, by adding two factors: size and value. They observed that smaller stocks outperformed larger stocks and stocks with high book/market outperformed stocks with low book/market. More importantly, the relationships were smooth; the smaller or more value-laden the stock, the higher its return. Fama and French interpret the smoothness of the relationship as indicating the market is rationally "pricing" these attributes, which implies that size and value strategies enjoy higher expected returns for being riskier.
+Further research has uncovered more stock factors, including momentum, quality, and low volatility, in nearly every equity market studied. They also display the same smooth relationship: The stronger the factor attribute, the higher the excess returns. The interpretation of these factors depends on whether you believe the market is efficient. In an efficient market, they must be connected to risk. However, if the market is not perfectly rational, some may represent quantitative strategies that exploit mispricings to produce excess returns.
+Many practitioners don't believe value, quality, momentum, and low-volatility strategies work because they are riskier. The strategies were exploited by investors before academics published them in journals as "discoveries." It's also hard to reconcile them all as representing risk because if you lump them all together, you get a smooth return stream.
+This does not mean that all factors earn profits by identifying mispricings. Some attributes, such as illiquidity, are associated with higher returns because they obviously represent risk. So factor investing encompasses two different approaches:
+1. Rational factor theory, which deals with the rewards that accrue to different types of risk and how the market prices them. Factor investing in this context is about finding the optimal portfolio of factor risks.
+2. Factor investing as commonly understood by practitioners, which is the identification of simple quantitative strategies associated with excess returns.
+Though it's been around for decades, factor investing has only in the past decade gained adherents. Recent converts include the Government Pension Fund of Norway, the biggest pension fund in Europe, and CalPERS, the biggest public pension fund in the United States.
+
+Redefining Alpha
+
+An implication of factor-based investing is that what was once legitimately deemed "alpha"--excess returns attributable to skill--has morphed into "beta" (or a factor) once researchers identify a simple strategy that replicates the alpha. For instance, certain hedge fund managers in the 1980s and 1990s pursued then-exotic strategies such as merger arbitrage that produced excellent returns uncorrelated to the market. However, once researchers identified how the arbitrage strategies worked and created mechanical replications, the managers' alpha became beta.
+A consequence of this process is that the hurdle for being declared a truly skilled manager has risen over time. In the 1980s, it was good enough to beat your benchmarks. These days, studies looking for evidence of skill in equity mutual funds control for exposure to size, value, and momentum factors. In other words, if your excess returns come during times that value, smaller-cap, or momentum stocks outperform, the procedure will adjust your "excess" return to zero.
+If you believe the excess returns of value and momentum strategies reflect risk, then it's a reasonable adjustment. If you believe value and momentum produce excess returns because of market inefficiency, then it's not--what you've done is redefine outperformance.
+507: Measuring Mutual Fund Manager Skill
+Introduction
+Successful investing is hard, but it doesn't require genius. In fact, Warren Buffett asserted that it's not so much raw brain power you need, but temperament "to control the urges that get other people into trouble in investing."
+As much as anything else, successful investing requires something perhaps even more rare: the ability to identify and overcome one's own psychological weaknesses.
+Over the past several decades, psychology has permeated our culture in many ways. In more recent times, its influences have taken hold in the field of behavioral finance, spawning an array of academic papers and learned tomes that attempt to explain why people make financial decisions that are contrary to their own interests.
+Experts in the field of behavioral finance have a lot to offer in terms of understanding psychology and the behaviors of investors, particularly the mistakes that they make. Much of the field attempts to extrapolate larger, macro trends of influence, such as how human behavior might move the market.
+This course and Portfolio 508 will focus on how the insights from the field of behavioral finance can benefit individual investors – specifically, how investors can learn to spot and correct investing mistakes in order to yield greater profits.
+
+Pitfall: Overconfidence
+Overconfidence refers to our boundless ability as human beings to think that we're smarter or more capable than we really are. It's what leads 82% of people to say that they are in the top 30% of safe drivers, for example. Moreover, when people say that they're 90% sure of something, studies show that they're right only about 70% of the time. Such optimism isn't always bad. Certainly we'd have a difficult time dealing with life's many setbacks if we were die-hard pessimists.
+However, overconfidence hurts us as investors when we believe that we're better able to spot the next great investment than another investor is. Odds are, we're not. (Nothing personal.)
+Studies show that overconfident investors trade more rapidly because they think they know more than the person on the other side of the trade. Trading rapidly costs plenty, and rarely rewards the effort. We'll repeat yet again that trading costs in the form of commissions, taxes, and losses on the bid-ask spread have been shown to be a serious damper on annualized returns. These frictional costs will always drag returns down.
+One of the things that drives rapid trading, in addition to overconfidence in our abilities, is the illusion of control. Greater participation in our investments can make us feel more in control of our finances, but there is a degree to which too much involvement can be detrimental, as studies of rapid trading have demonstrated.
+
+Pitfall: Selective Memory
+Another danger that overconfident behavior might lead to is selective memory. Few of us want to remember a painful event or experience in the past, particularly one that was of our own doing. In terms of investments, we certainly don't want to remember those stock calls that we missed much less those that proved to be mistakes that ended in losses.
+The more confident we are, the more such memories threaten our self-image. How can we be such good investors if we made those mistakes in the past? Instead of remembering the past accurately, in fact, we will remember it selectively so that it suits our needs and preserves our self-image.
+Incorporating information in this way is a form of correcting for cognitive dissonance, a well-known theory in psychology. Cognitive dissonance posits that we are uncomfortable holding two seemingly disparate ideas, opinions, beliefs, attitudes, or in this case, behaviors, at once, and our psyche will somehow need to correct for this.
+Correcting for a poor investment choice of the past, particularly if we see ourselves as skilled traders now, warrants selectively adjusting our memory of that poor investment choice. "Perhaps it really wasn't such a bad decision selling that stock?" Or, "Perhaps we didn't lose as much money as we thought?" Over time our memory of the event will likely not be accurate but will be well integrated into a whole picture of how we need to see ourselves.
+Another type of selective memory is representativeness, which is a mental shortcut that causes us to give too much weight to recent evidence--such as short-term performance numbers--and too little weight to the evidence from the more distant past. As a result, we'll give too little weight to the real odds of an event happening.
+
+Pitfall: Self-Handicapping
+
+Researchers have also observed a behavior that could be considered the opposite of overconfidence. Self-handicapping bias occurs when we try to explain any possible future poor performance with a reason that may or may not be true.
+An example of self-handicapping is when we say we're not feeling good prior to a presentation, so if the presentation doesn't go well, we'll have an explanation. Or it's when we confess to our ankle being sore just before running on the field for a big game. If we don't quite play well, maybe it's because our ankle was hurting.
+As investors, we may also succumb to self-handicapping, perhaps by admitting that we didn't spend as much time researching a stock as we normally had done in the past, just in case the investment doesn't turn out quite as well as expected. Both overconfidence and self-handicapping behaviors are common among investors, but they aren't the only negative tendencies that can impact our overall investing success.
+Pitfall: Loss Aversion
+
+It's no secret, for example, that many investors will focus obsessively on one investment that's losing money, even if the rest of their portfolio is in the black. This behavior is called loss aversion.
+Investors have been shown to be more likely to sell winning stocks in an effort to "take some profits," while at the same time not wanting to accept defeat in the case of the losers. Philip Fisher wrote in his excellent book Common Stocks and Uncommon Profits that, "More money has probably been lost by investors holding a stock they really did not want until they could 'at least come out even' than from any other single reason."
+Regret also comes into play with loss aversion. It may lead us to be unable to distinguish between a bad decision and a bad outcome. We regret a bad outcome, such as a stretch of weak performance from a given stock, even if we chose the investment for all the right reasons. In this case, regret can lead us to make a bad sell decision, such as selling a solid company at a bottom instead of buying more.
+It also doesn't help that we tend to feel the pain of a loss more strongly than we do the pleasure of a gain. It's this unwillingness to accept the pain early that might cause us to "ride losers too long" in the vain hope that they'll turn around and won't make us face the consequences of our decisions.
+Pitfall: Sunk Costs
+
+It's no secret, for example, that many investors will focus obsessively on one investment that's losing money, even if the rest of their portfolio is in the black. This behavior is called loss aversion.
+Investors have been shown to be more likely to sell winning stocks in an effort to "take some profits," while at the same time not wanting to accept defeat in the case of the losers. Philip Fisher wrote in his excellent book Common Stocks and Uncommon Profits that, "More money has probably been lost by investors holding a stock they really did not want until they could 'at least come out even' than from any other single reason."
+Regret also comes into play with loss aversion. It may lead us to be unable to distinguish between a bad decision and a bad outcome. We regret a bad outcome, such as a stretch of weak performance from a given stock, even if we chose the investment for all the right reasons. In this case, regret can lead us to make a bad sell decision, such as selling a solid company at a bottom instead of buying more.
+It also doesn't help that we tend to feel the pain of a loss more strongly than we do the pleasure of a gain. It's this unwillingness to accept the pain early that might cause us to "ride losers too long" in the vain hope that they'll turn around and won't make us face the consequences of our decisions.
+508: The Small-Company Advantage: Fact or Fiction?
+Introduction
+
+Portfoilo 507 introduced the concept of behavioral finance -- the study of the psychology and the behaviors of investors, particularly the mistakes that they make. Much of the field attempts to extrapolate larger, macro trends of influence, such as how human behavior might move the market.
+That course covered five behaviors that investors exhibit. This course covers five additional behaviors that can subvert investment performance.
+Pitfall: Anchoring
+
+Ask New Yorkers to estimate the population of Chicago, and they'll anchor on the number they know--the population of the Big Apple--and adjust down, but not enough. Ask people in Milwaukee to guess the number of people in Chicago and they'll anchor on the number they know and go up, but not enough. When estimating the unknown, we cleave to what we know.
+Investors often fall prey to anchoring. They get anchored on their own estimates of a company's earnings, or on last year's earnings. For investors, anchoring behavior manifests itself in placing undue emphasis on recent performance since this may be what instigated the investment decision in the first place.
+When an investment is lagging, we may hold on to it because we cling to the price we paid for it, or its strong performance just before its decline, in an effort to "break even" or get back to what we paid for it. We may cling to subpar companies for years, rather than dumping them and getting on with our investment life. It's costly to hold on to losers, though, and we may miss out on putting those invested funds to better use.
+Pitfall: Confirmation Bias
+
+Another risk that stems from both overconfidence and anchoring involves how we look at information. Too often we extrapolate our own beliefs without realizing it and engage in confirmation bias, or treating information that supports what we already believe, or want to believe, more favorably.
+For instance, if we've had luck owning a particular brand of cars, we will likely be more inclined to believe information that supports our own good experience owning them, rather than information to the contrary. If we've purchased a mutual fund concentrated in health-care stocks, we may overemphasize positive information about the sector and discount whatever negative news we hear about how these stocks are expected to perform.
+Hindsight bias also plays off of overconfidence and anchoring behavior. This is the tendency to re-evaluate our past behavior surrounding an event or decision knowing the actual outcome. Our judgment of a previous decision becomes biased to accommodate the new information. For example, knowing the outcome of a stock's performance, we may adjust our reasoning for purchasing it in the first place. This type of "knowledge updating" can keep us from viewing past decisions as objectively as we should.
+Pitfall: Mental Accounting
+
+If you've ever heard friends say that they can't spend a certain pool of money because they're planning to use it for their vacation, you've witnessed mental accounting in action. Most of us separate our money into buckets--this money is for the kids' college education, this money is for our retirement, this money is for the house. Heaven forbid that we spend the house money on a vacation.
+Investors derive some benefits from this behavior. Earmarking money for retirement may prevent us from spending it frivolously. Mental accounting becomes a problem, though, when we categorize our funds without looking at the bigger picture. One example of this would be how we view a tax refund. While we might diligently place any extra money left over from our regular income into savings, we often view tax refunds as "found money" to be spent more frivolously. Since tax refunds are in fact our earned income, they should not be considered this way.
+For gambling aficionados this effect can be referred to as "house money." We're much more likely to take risks with house money than with our own. For example, if we go to the roulette table with $100 and win another $200, we're more likely to take a bigger risk with that $200 in winnings than we would if the money was our own to begin with. There's a perception that the money isn't really ours and wasn't earned, so it's OK to take more risk with it. This is risk we'd be unlikely to take if we'd spent time working for that $200 ourselves.
+Similarly, if our taxes were correctly adjusted so that we received that refund in portions all year long as part of our regular paycheck, we might be less inclined to go out and impulsively purchase that Caribbean cruise or flat-screen television.
+In investing, just remember that money is money, no matter whether the funds in a brokerage account are derived from hard-earned savings, an inheritance, or realized capital gains.
+509: Dividends
+Introduction
+The bucket approach to retirement-portfolio management, pioneered by financial planning guru Harold Evensky, effectively helps retirees create a paycheck from their investment assets.
+The bucket concept is anchored on the basic premise that assets needed to fund near-term living expenses ought to remain in cash, dinky yields and all. Assets that won't be needed for several years or more can be parked in a diversified pool of long-term holdings, with the cash buffer providing the peace of mind to ride out periodic downturns in the long-term portfolio.
+Here's how the bucket approach works and how to fill each bucket.
+
+The All-Important Bucket 1
+The linchpin of any bucket framework is a highly liquid component to meet near-term living expenses for one year or more. When cash yields are close to zero, bucket 1 is close to dead money, but the goal of this portfolio sleeve is to stabilize principal to meet income needs not covered by other income sources.
+To arrive at the amount of money to hold in bucket 1, start by sketching out spending needs on an annual basis. Subtract from that amount any certain, non-portfolio sources of income such as Social Security or pension payments. The amount left over is the starting point for bucket 1: That's the amount of annual income bucket 1 will need to supply.
+More conservative investors will want to multiply that figure by 2 or more to determine their cash holdings. Alternatively, investors concerned about the opportunity cost of so much cash might consider building a two-part liquidity pool--one year's worth of living expenses in true cash and one or more year's worth of living expenses in a slightly higher-yielding alternative holding, such as a short-term bond fund. A retiree might also consider including an emergency fund within bucket 1 to defray unanticipated expenses such as car repairs, additional health-care costs, and so on.
+
+Bucket 2 and Beyond
+Although retirees may customize different frameworks for the number of buckets they hold, and the types of assets in each, Morningstar's Director of Personal Finance, Christine Benz suggests two additional buckets, as follows.
+Bucket 2:This portfolio segment contains five or more years' worth of living expenses, with a goal of income production and stability. Thus, it's dominated by high-quality fixed-income exposure, though it might also include a small share of high-quality dividend-paying equities and other yield-rich securities such as master limited partnerships. Balanced or conservative- and moderate-allocation funds would also be appropriate in this part of the portfolio.
+Income distributions from this portion of the portfolio can be used to refill bucket 1 as those assets are depleted. Why not simply spend the income proceeds directly and skip bucket 1 altogether? Because most retirees desire a reasonably consistent income stream to help meet their income needs. If yields are low, the retiree can maintain a consistent standard of living by looking to other portfolio sources, such as rebalancing proceeds from buckets 2 and 3, to refill bucket 1.
+Bucket 3:The longest-term portion of the portfolio, bucket 3 is dominated by stocks and more volatile bond types like junk bonds. Because this portion of the portfolio is likely to deliver the best long-term performance, it will require periodic trimming to keep the total portfolio from becoming too equity-heavy. By the same token, this portion of the portfolio will also have much greater loss potential than buckets 1 and 2. Those portfolio components are in place to prevent the investor from tapping bucket 3 when it's in a slump, which would otherwise turn paper losses into real ones.
+
+Bucket Maintenance
+
+The bucket structure calls for adding assets back to bucket 1 as the cash is spent down. Yet investors can exercise a lot of leeway to determine the logistics of that necessary bucket maintenance.
+The following sequence will make sense in many situations:
+* Income from cash holdings in bucket 1. These will be of limited help in a yield-starved environment, but could become more meaningful when yields rise.
+* Income from bonds and dividend-paying stocks from buckets 2 and possibly even 3. (Income-focused investors might decide that their bucket maintenance starts and stops with these distributions.)
+* Rebalancing proceeds from buckets 2 and especially 3.
+* Principal withdrawals from bucket 2, provided the above methods have been exhausted. Such a scenario would tend to be most likely in a 2008-style environment, when bond and dividend yields dropped and equities slumped, thereby making it an inopportune time to unload equities. (Such a scenario would generally be a decent time to engage in tax-loss selling, but the proceeds from that would be best deployed back into equities.)
+
+510: Behavioral Finance
+Introduction
+It's a trend we've seen again and again: Investors' enthusiasm for an asset class seems to ebb and flow with the performance of that market segment.
+Foreign stocks are no exception. For example, though there are sound fundamental reasons for investing in emerging markets, it's probably not a coincidence that investors send scads of new money to diversified emerging-markets stock funds when they are outperforming.
+But rather than adding to and subtracting from your foreign stake based on market performance, and risk being whipped around by market winds, a better approach is to set a strategic, long-term allocation to foreign stocks and stick with it, making only minor adjustments to rebalance.
+Unfortunately, that's easier said than done. Even informed observers vary widely on how much to stake overseas, ranging from the "don't bother" camp to the "all global, all the time" school of thought.
+And importantly, classifying foreign and U.S. companies based on where their headquarters are located is evolving into an increasingly questionable exercise, especially for large-cap multinationals. Companies such as Coca Cola and McDonald's derive more than half of their revenues from overseas, whereas global behemoths such Nestle and Toyota count on the U.S. for a big portion of their sales.
+
+The Global Portfolio: A Starting Point
+Given the fact that country of domicile doesn't say a lot about where a company actually does business, it's tempting to shelve the foreign versus U.S. allocation question altogether and simply opt for a global markets index fund.
+That's a logical approach, particularly for those who are already index enthusiasts. If you buy into the concept of letting the market decide the size of the holdings in your fund, letting the market decide country weightings is a logical extension of that thought process.
+And even if you're not ready to cede complete control of your country allocations by investing in a global stock market index fund, the geographic allocations of the global market provide a good starting point for thinking about your own allocations. Consult the allocations of an index such as the FTSE All-World Index, for instance.
+
+Ask the Experts
+Morningstar's Lifetime Allocation Indexes, developed in conjunction with asset-allocation specialist Ibbotson Associates, provide additional intelligence about what's a reasonable foreign/domestic split.
+In general, it's worth noting that these benchmarks are much less foreign-stock-heavy than is the case with global market benchmarks such as the FTSE All-World Index. For example, the portfolios geared toward investors who are just starting out steer roughly 40% of their equity assets toward foreign stocks as of this writing, and those weightings step down dramatically for those nearing and in retirement. For people with 10-15 years until retirement, the indexes' foreign stakes compose roughly 30% of the overall equity allocation as of this writing, and drop to 20%-25% of equity for those who are already retired.
+One of the key rationales for a lower foreign-stock allocation in retirement is currency risk. Because foreign assets are not denominated in dollars, there's a chance that foreign currencies could dip as an investor approaches retirement, thereby depressing the purchasing power of a heavily globalized portfolio at an inopportune time. Of course, those currency swings can work the other way, too. But the bottom line is that currency risk is a wild card that's completely out of your control, and you're better off reducing any such risks as retirement draws near.
+A checkup of target-date funds' average foreign allocations yields weightings that are in a similar range, roughly one third of the overall equity portfolio as of this writing. As is the case with Morningstar's Lifetime Allocation Indexes, foreign stocks consume a larger share (close to 40%) of the equity portfolios for younger investors than is the case for investors closing in on retirement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
