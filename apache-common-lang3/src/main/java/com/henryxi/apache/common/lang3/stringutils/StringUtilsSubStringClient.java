@@ -7,5 +7,7 @@ public class StringUtilsSubStringClient {
         String str="https://img1.doubanio.com/mpic/s4237197.jpg";
         String imageId = StringUtils.substringBetween(str, "/s", ".jpg");
         System.out.println(imageId);
+        String substring = StringUtils.substring(str, 0,12);
+        System.out.println(substring);
     }
 }
