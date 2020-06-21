@@ -1,4 +1,4 @@
-package com.henryxi.guava;
+package com.henryxi.guava.bloom;
 
 import com.google.common.hash.BloomFilter;
 import com.google.common.hash.Funnels;
