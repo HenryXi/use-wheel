@@ -21,7 +21,6 @@
         <module>dozer</module>
         <module>junit</module>
         <module>apache-poi</module>
-        <module>idea</module>
         <module>jsonassert</module>
         <module>guava</module>
         <module>nginx</module>
