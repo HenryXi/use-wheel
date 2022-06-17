@@ -22,7 +22,6 @@
         <module>junit</module>
         <module>apache-poi</module>
         <module>jsonassert</module>
-        <module>guava</module>
         <module>nginx</module>
         <module>vi</module>
         <module>gson</module>
